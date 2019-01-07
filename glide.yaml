@@ -1,0 +1,8 @@
+package: github.com/foomo/neoscontentrepository
+import:
+- package: github.com/foomo/contentserver
+  version: ~1.4.2
+- package: github.com/go-sql-driver/mysql
+  version: ~1.4.1
+- package: github.com/stretchr/testify
+  version: ~1.2.2

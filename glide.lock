@@ -1,0 +1,14 @@
+hash: 196ea20faad04f34c72ee4ec0ca7a36c2737374b60efb187cf3c673e1a2e156c
+updated: 2018-12-26T19:15:19.205432+01:00
+imports:
+- name: github.com/foomo/contentserver
+  version: 8f7c23ff4a3c4137e0f3159a2e707553f00c5448
+- name: github.com/go-sql-driver/mysql
+  version: 72cd26f257d44c1114970e19afddcd812016007e
+- name: github.com/stretchr/testify
+  version: f35b8ab0b5a2cef36673838d662e249dd9c94686
+- name: google.golang.org/appengine
+  version: e9657d882bb81064595ca3b56cbe2546bbabf7b1
+  subpackages:
+  - cloudsql
+testImports: []
